@@ -1,19 +1,5 @@
-### Hello, this is Song Joo 👋
+### About Myself:
 
-<!--
-**SongJoo1993/SongJoo1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently looking for a Co-op position!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Reach me at sjoo6@myseneca.ca
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 ```yaml
 name: Song Joo
 located_in: Toronto, ON
