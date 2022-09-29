@@ -9,32 +9,13 @@ education:
     "Bachelor's in Criminology, Law and Society @ University of Toronto",
   ]
 fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX",
-    "Data Science",
-    "DevOps"
-  ]
+  [ "Web Development", "UI/UX", "Data Science", "DevOps"]
 technical_skills:
   [
-    web_development:
-    [
-      "JavaScript",
-      "HTML5",
-      "CSS3",
-      "SASS",
-    ],
-    server:
-    [
-      "Node.js",
-      "Express.js"
-    ],
+    web_development: ["JavaScript", "HTML5", "CSS3","SASS","React.js"],
+    server: ["Node.js", "Express.js"],
     database: "oracle_sql",
-    software_development:
-    [
-      "C",
-      "C++"
-    ]
+    software_development: ["C", "C++"]
   ]
 currently_learning: ["C++, React.js, Oracle"]
 2022 Goals: ["Create 2+ Web Application and C++ Application"]
