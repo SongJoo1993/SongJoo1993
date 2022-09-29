@@ -2,7 +2,7 @@
 
 ```yaml
 name: Song Joo
-located_in: Toronto, ON
+located_in: North York, ON
 education:
   [
     "Diploma in Computer Programming & Analysis (CPA) @ SENECA College",
@@ -26,5 +26,5 @@ technical_background:
   
 currently_learning: ["C++, React.js, Oracle"]
 2022 Goals: ["Create 2+ Web Application and C++ Application"]
-hobbies: ["Gaming", "Exercise", "Watching Movies"]
+hobbies: ["Exercise", "Watching Movies"]
 ```
