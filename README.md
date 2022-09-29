@@ -14,7 +14,7 @@ technical_skills:
   [
     web_development: ["JavaScript", "HTML5", "CSS3","SASS","React.js"],
     server: ["Node.js", "Express.js"],
-    database: "oracle_sql",
+    database: "Oracle SQL",
     software_development: ["C", "C++"]
   ]
 currently_learning: ["C++, React.js, Oracle"]
