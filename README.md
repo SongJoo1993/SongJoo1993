@@ -5,8 +5,8 @@ name: Song Joo
 located_in: Toronto, ON
 education:
   [
-    "Diploma in Computer Programming & Analysis (CPA)",
-    "Bachelor's in Criminology, Law and Society",
+    "Diploma in Computer Programming & Analysis (CPA) @ SENECA",
+    "Bachelor's in Criminology, Law and Society @ UNIVERSITY OF TORONTO",
   ]
 
 fields_of_interests:
