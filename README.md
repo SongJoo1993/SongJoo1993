@@ -8,7 +8,6 @@ education:
     "Diploma in Computer Programming & Analysis (CPA) @ SENECA College",
     "Bachelor's in Criminology, Law and Society @ University of Toronto",
   ]
-
 fields_of_interests:
   [
     "Web Development",
@@ -16,14 +15,27 @@ fields_of_interests:
     "Data Science",
     "DevOps"
   ]
-technical_background:
+technical_skills:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    web_development:
+    [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "SASS",
+    ],
+    server:
+    [
+      "Node.js",
+      "Express.js"
+    ],
+    database: "oracle_sql",
+    software_development:
+    [
+      "C",
+      "C++"
+    ]
   ]
-  
 currently_learning: ["C++, React.js, Oracle"]
 2022 Goals: ["Create 2+ Web Application and C++ Application"]
 hobbies: ["Exercise", "Watching Movies"]
