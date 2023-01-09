@@ -18,6 +18,6 @@ technical_skills:
     software_development: ["C", "C++"]
   ]
 currently_learning: ["C++, React.js, Oracle"]
-2022 Goals: ["Create 2+ Web Application and C++ Application"]
+2023 Goals: ["Create 2+ Web Application and C++ Application"]
 hobbies: ["Exercise", "Watching Movies"]
 ```
