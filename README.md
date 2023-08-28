@@ -2,7 +2,7 @@
 
 ```yaml
 name: Song Joo
-located_in: North York, ON
+located_in: Toronto, ON
 education:
   [
     "Diploma in Computer Programming (CPP) @ SENECA College"
