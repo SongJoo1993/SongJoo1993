@@ -11,10 +11,10 @@ fields_of_interests:
   [ "Web Development", "UI/UX", "Data Science", "DevOps"]
 technical_skills:
   [
-    front_end: ["JavaScript", "HTML5", "CSS3","SASS","React.js"],
+    front_end: ["JavaScript", "HTML5", "CSS3","SASS","React, Next.js"],
     back_end: ["Node.js", "Express.js"],
-    database: "MongoDB, PostgreSQL",
-    software_development: ["C", "C++"]
+    database: ["MongoDB", "MySQL"],
+    software_development: ["C", "C++", Python]
   ]
 currently_learning: ["React.js, Next.js, Node.js, MongoDB, PostgreSQL"]
 2023 Goals: ["Create 2+ Web Applications and get a full-time developer position"]
