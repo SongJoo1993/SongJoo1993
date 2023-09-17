@@ -1,4 +1,4 @@
-### Hello, I'm [Song Joo](https://www.portfolio-website-kpw2.vercel.app/)
+### Hello, I'm [Song Joo](https://portfolio-website-kpw2.vercel.app/)
 
 :bulb: &nbsp; I'm a developer who is deeply committed to ongoing learning and improvement.
 
