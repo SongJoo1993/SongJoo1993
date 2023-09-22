@@ -8,7 +8,7 @@
 
 :computer: &nbsp;  Languages ![C](https://img.shields.io/badge/-C-orange?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-orange?logo=C%2B%2B&&logoColor=white) ![python](https://img.shields.io/badge/python-orange?logo=python&logoColor=white)     
 
-:rocket: &nbsp;  Projects [Flick Scout](https://animated-kashata-8b339e.netlify.app/), [SimplePos](https://github.com/SongJoo1993/SimplePos)       
+:rocket: &nbsp;  Projects [Flick Scout](https://flickscout.netlify.app/), [SimplePos](https://github.com/SongJoo1993/SimplePos)       
 
 :link: &nbsp;  Connect with me via [Linked-In](https://www.linkedin.com/in/songjoo/)
 
