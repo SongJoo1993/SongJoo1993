@@ -1,4 +1,4 @@
-### Hello, I'm [Song Joo](https://songjoo-devfolio.vercel.app/)
+## Hello, I'm [Song Joo](https://songjoo-devfolio.vercel.app/)
 
 :bulb: &nbsp; I'm a developer who is deeply committed to ongoing learning and improvement.
 
